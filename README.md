@@ -4,6 +4,8 @@ The files in this repository are the supporting information for the article: _Va
 
 Please cite the article when using the files of this repository. 
 
+(vasileios.sergis@universityofgalway.ie) 
+
 *Python version 3.9.17.
 
 ## Project description
