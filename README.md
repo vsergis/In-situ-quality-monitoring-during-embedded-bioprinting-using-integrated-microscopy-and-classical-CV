@@ -13,7 +13,7 @@ Despite significant advances in bioprinting technology, current hardware platfor
   
 </h5>  
 <p align="center">
-<img src="Bioprinting hardware with real-time quality-monitoring.png" width="300" height="200"> 
+<img src="Bioprinting hardware with real-time quality-monitoring.png" width="900" height="1200"> 
 </p>
 
 The [Data.xlsx](Training/Data.xlsx) file includes the data collected...
