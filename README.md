@@ -15,8 +15,3 @@ Despite significant advances in bioprinting technology, current hardware platfor
 <p align="center">
 <img src="Bioprinting hardware with real-time quality-monitoring.png" width="750" height="900"> 
 </p>
-
-The [Data.xlsx](Training/Data.xlsx) file includes the data collected...
-
-The methodology is divided into two main steps:
-* Firstly, tuning the .... ([Tuning_hp.m](Training/Tuning_hp.m)) 
